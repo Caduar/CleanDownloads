@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.9.13 on darwin)" generated="20230129 18:35:19.457" rpa="true" schemaversion="3">
+<suite id="s1" name="Tasks" source="/Users/camiloandresduarterincon/Robots/CleanDownloads/tasks.robot">
+<test id="s1-t1" name="Capturar Usuario" line="13">
+<status status="FAIL" starttime="20230129 18:35:19.571" endtime="20230129 18:35:19.572">Task contains no keywords.</status>
+</test>
+<doc>Template robot main suite.</doc>
+<status status="FAIL" starttime="20230129 18:35:19.462" endtime="20230129 18:35:19.572"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tasks</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Tasks">Tasks</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
